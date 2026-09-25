@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2239a1e925463919",
+        "id": "fe17c15d7994f679",
         "type": "tabs",
         "children": [
           {
-            "id": "c1762a43d9c1e0b8",
+            "id": "86e6173c2513edc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "57d90101ce85697d",
@@ -189,16 +188,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1762a43d9c1e0b8",
+  "active": "86e6173c2513edc9",
   "lastOpenFiles": [
-    "BEA_GDP_NC.csv file.md",
-    "Datasets and sources of interest.md",
-    "FRED_REAL_GDP.csv",
-    "NCRGSP.csv",
     "Project Goal.md",
+    "FRED_REAL_GDP.csv",
     "BEA_GDP_NC.csv",
+    "Decoupling-Debunked-inspiration-for-this-project.pdf",
+    "Datasets and sources of interest.md",
+    "BEA_GDP_NC.csv file.md",
+    "NCRGSP.csv",
     "BEA_Real_GDP_NC.csv",
-    "SAGDP4_NC_1997_2024.csv",
-    "Decoupling-Debunked-inspiration-for-this-project.pdf"
+    "SAGDP4_NC_1997_2024.csv"
   ]
 }

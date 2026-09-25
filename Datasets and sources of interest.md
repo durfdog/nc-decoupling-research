@@ -6,3 +6,18 @@
 - FRED has a real GDP dataset that can be found here:  https://fred.stlouisfed.org/series/ncrgsp
 - [[FRED_REAL_GDP.csv]]
 
+# Production based  footprint
+
+- We are going to need data for the following metrics to determine production based footprint
+### Resource Use
+- Land use in NC
+- Water use in NC
+- Fossil fuel use in NC
+- Tons of biomass directly consumed
+- Tons of abiotic resources
+
+### Impacts
+- Greenhouse gas emissions
+- Water pollution
+- Air pollution
+- Biodiversity loss (not sure how to quantify)
